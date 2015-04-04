@@ -3,25 +3,18 @@ layout: default
 ---
 
 {% for post in paginator.posts limit: 10 %}
-
-  <div class="wrapper style1 first">
-        <article class="container" id="top">
-          <div class="row">
-            <div class="4u">
-              <span class="image fit"><img src="img/pic00.jpg" alt="" /></span>
-            </div>
-            <div class="8u">
-                <h2><strong>{{ post.title }}</strong></h2>
-              <h4>{{ post.date | date_to_long_string }}</h4>
-                  <p>
-                    <a href="{{ post.url }}">Read Post</a>
-                  </p>
-            </div>
-          </div>
-        </article>
+<div class="row-fluid">
+  <div class="span12">
+    <h2>{{ post.title }}</h2>
+    <h4>{{ post.date | date_to_long_string }}</h4>
+    <p>
+      <a href="{{ post.url }}">Read Post</a>
+    </p>
   </div>
-
+</div>
+{{ post.date | date: "%m-%d-%Y" }}
 {% endfor %}
+
 <div class="row-fluid">
   <div class="span12">
     <div class="pagination">
