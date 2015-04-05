@@ -8,13 +8,15 @@ layout: default
         <article class="container" id="top">
           <div class="row">
             <div class="4u">
-              <span class="image fit"><img src="img/spawingSoon_64.png" alt="" /></span>
+              <!--<span class="image fit"><img src="img/spawingSoon_64.png" alt="" /></span>-->
+              <img src={{ page.image }} alt="" />
             </div>
             <div class="8u">
                 <h2><strong>{{ post.title }}</strong></h2>
               <h4>{{ post.date | date_to_long_string }}</h4>
                   <p>
                     <a href="{{ post.url }}">Read Post</a>
+                    
                   </p>
             </div>
           </div>
