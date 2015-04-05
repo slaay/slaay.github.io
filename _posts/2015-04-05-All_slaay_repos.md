@@ -1,5 +1,5 @@
 ---
-title: All GitHub repos by Slaaysourcecoders!
+title: GitHub repos
 layout: post
 image: /img/octojekyll.png
 comments: True
