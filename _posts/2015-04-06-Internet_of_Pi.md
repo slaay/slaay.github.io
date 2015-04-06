@@ -1,7 +1,7 @@
 ---
 title: Internet of Pi
 layout: post
-image: /img/iot.png
+image: /img/iot_pi.jpg
 comments: True
 ---
 
