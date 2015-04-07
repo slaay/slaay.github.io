@@ -10,7 +10,7 @@ There are a million (and a little bit more) possibilities.
 I do want to be left out of the IOT storm as its going to be great leaning experience.
 
 Here is my idea of IOT that I am working on, basically its a flying device (well inspired from other pioneers in Goa).
-But i do not have any cash lying around to go and buy heavy duty quad copters. 
+But I do not have any cash lying around to go and buy heavy duty quad copters. 
 
 
 ### So the idea is
@@ -20,10 +20,10 @@ But i do not have any cash lying around to go and buy heavy duty quad copters.
 * a Drone (this is the most important bit)
   * I do not intend to buy a drone with camera as they are pretty expensive for me.
 
-And get all the above bits and piece merged together to make a IOT device (home made i should say).
+And get all the above bits and piece merged together to make a IOT device (home made I should say).
 I want to make sure the whole setup does not cross 6 - 7K.
 
-Well thats it. As of now i am hunting for a good cheap board to start with. More details later!
+Well thats it. As of now I am hunting for a good cheap board to start with. More details later!
 
 
 

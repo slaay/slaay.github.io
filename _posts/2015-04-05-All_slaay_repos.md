@@ -5,10 +5,10 @@ image: /img/octojekyll.png
 comments: True
 ---
 
-I has been a while since i started with coding and hosting public repos on GitHub. I first start forking random repos that interested me alot.
-Then i moved on to create my own repo. The reason i chose GitHub was simple for me as Github is huge and damn easy to search and use.
-Since i got myself a MAC Mini and using GitHub was really very simple. I believe in open source and sharing (is caring ;)). So all my source
-codes are openly available on Github, Even this website built using Jekyll!
+I has been a while since I started with coding and hosting public repos on GitHub. I first start forking random repos that interested me alot.
+Then I moved on to create my own repo. The reason I chose GitHub was simple for me as Github is huge and damn easy to search and use.
+Since I got myself a MAC Mini and using GitHub was really very simple. I believe in open source and sharing (is caring ;)). So all my source
+codes are openly available on Github and Even this website built using Jekyll!
 
 
 ### List of my repos on GitHub
