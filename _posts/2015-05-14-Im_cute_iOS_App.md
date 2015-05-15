@@ -1,7 +1,7 @@
 ---
 title: I need a hug ;(
 layout: post
-image: /img/apps/cuteme/cuteme.jpg
+image: /img/apps/cuteme.jpg
 comments: True
 ---
 
@@ -14,7 +14,7 @@ times when you have to re invent the wheel.;)
 I'm not very good at mobile designing but this is a simple design that is in my mind. Just a button and text with the compliment and well it does not kill some one to get just one more compliment ;) so there is a button for that too.
 
 
-![Design](/img/apps/cuteme/cuteme-Design.jpg)
+![Design](/img/apps/cuteme-Design.jpg)
 
 
 ###Something more
