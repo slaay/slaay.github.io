@@ -1,7 +1,7 @@
 ---
 title: MVC for Me!
 layout: post
-image: /img/dotnet/mvc.jpg
+image: /img/Dotnet/mvc.jpg
 comments: True
 ---
 
