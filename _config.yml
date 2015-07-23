@@ -3,7 +3,7 @@ description: "Slaay github Pages"
 
 url: "http://slaaysourcecoders.in"
 
-paginate: 10
+paginate: 20
 
 markdown: rdiscount
 permalink: pretty
