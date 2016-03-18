@@ -5,7 +5,7 @@ url: "http://slaaysourcecoders.in"
 
 paginate: 20
 
-markdown: rdiscount
+
 permalink: pretty
 pygments: true
 gems:
