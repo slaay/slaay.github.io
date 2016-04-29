@@ -7,6 +7,6 @@ paginate: 20
 
 
 permalink: pretty
-pygments: true
+pygments: false
 gems:
   - jekyll-sitemap
