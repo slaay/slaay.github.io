@@ -5,6 +5,8 @@ url: "http://slaaysourcecoders.in"
 
 paginate: 20
 
+markdown:    kramdown
+highlighter: rouge
 
 permalink: pretty
 pygments: false
