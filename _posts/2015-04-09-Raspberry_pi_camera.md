@@ -17,7 +17,8 @@ The article describes how you can use Raspberry Pi with a camera and create a lo
 The total cost to build a low cost HD surveillance system can be as little as 5K or even less. Now all this you will have to build yourself but its 
 going to be alot of fun.
 
-###Drone with camera
+Drone with camera
+------------
 There are lots of stores selling the camera module for Pi. So after i buy the Raspberry Pi itself and getting it working. 
 I am little confused as  to what to buy next?
 

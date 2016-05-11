@@ -11,8 +11,8 @@ Since I got myself a MAC Mini and using GitHub was really very simple. I believe
 codes are openly available on Github and Even this website built using Jekyll!
 
 
-### List of my repos on GitHub
-
+List of my repos on GitHub
+------------
 * *iOS*
 	* [KeepThink](https://github.com/slaay/KeepThink)
 	* [FliterApp](https://github.com/slaay/FliterApp)

@@ -11,7 +11,8 @@ There are minimal controls.
 In the begining I would prefer to have the app control the drone and nothing else. After that if everything is going fine the next 
 job will be to have the drone send out live images/video over the internet to the app.
 
-###App OS
+App OS
+------------
 Another point in my head is which OS should I target for the app!
 By the way I suck in Java, so the app will be an iOS app. But I do not have an iPhone and 99$ Apple [developer account](http://developer.apple.com).
 Since I have an Android phone (it will be cheaper to buy one test phone also), I think I should learn JAVA or Delphi for Mobile [Embarcadero Delphi](http://www.embarcadero.com/products/delphi)

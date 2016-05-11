@@ -9,7 +9,8 @@ hunt down for a simple light weight CMS for blogging over which I can have all t
 I already have a wordpress (<a href="https://slaaysourcecoders.wordpress.com">slaaysourcecoders.wordpress</a>)  blog but I wanted somthing different and something new that would make me dig into the code and Jekyll was the answer!
 Jekyll in few words is <i>Jekyll is a simple, blog aware, static site generator.</i>
 
-### To start with  Jekyll
+To start with  Jekyll
+------------
 Try this tutorial by <a href="http://learn.andrewmunsell.com/learn/jekyll-by-example/tutorial">andrewmunsell</a>
 
 

@@ -9,7 +9,8 @@ For building my first Internet of Things flying device I need o get my hands on 
 Well i need it to be the heart of the whole system. The board will be running Android OS and it is going to connect to Internet
 to get the commands that I will be sending from mobile app (oh yes! mobile app).
 
-###Top hits
+Top hits
+------------
 * [crazypi](https://www.crazypi.com/RASPBERRY-PI-2-MODEL-B-INDIA)
 	* Price: Rs 3,200.00 
 * [Amazon](http://www.amazon.in/Raspberry-Pi-MODB-Quad-core/dp/B00T7EE3D0/ref=pd_cp_pc_0)
@@ -19,11 +20,13 @@ to get the commands that I will be sending from mobile app (oh yes! mobile app).
 
 The above list has all of the things I need in the board.
 
-###Need to do
+Need to do
+------------
 First  things first, I need to buy the board, even at 3.2 K they are too expensive for me to buy (any one want to gift me one, most welcome ;)).
 Till then its time to be save every penny i can.
 
-###After that
+After that
+------------
 I need to buy the drone (quad copter, again anyone wants to gift me please do so ;)) 
 
 

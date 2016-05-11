@@ -13,7 +13,8 @@ Here is my idea of IOT that I am working on, basically its a flying device (well
 But I do not have any cash lying around to go and buy heavy duty quad copters. 
 
 
-### So the idea is
+So the idea is
+------------
 * Get a Raspberry pi board (need to buy)
 * A camera module for Raspberry pi board (need to buy)
 * A Android powered Phone (Already have)

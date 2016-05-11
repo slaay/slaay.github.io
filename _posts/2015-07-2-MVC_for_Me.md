@@ -5,13 +5,15 @@ image: /img/Dotnet/mvc.jpg
 comments: True
 ---
 
-###How I thought myself little bit of MVC
+How I thought myself little bit of MVC
+------------
 (**Newbie alert, don't kill me if I said something wrong!**) <br/>
 Model--View--Controller
 The heart and soul of architectural pattern for user interface for a lot of modern development platforms. I was recently introduced to MVC (first time while learning iOS), though it took me a while to get he hang of it but it was worth digging my head into it.
 Some one recently said to me "It will not be a waste as what you learn will not be forgotten". Its of those very important things that are not thought in school.
 
-###Just magic!
+Just magic!
+------------
 Its just magical to see how data, action and the stuff that you see on screen can be handled so nicely using MVC pattern. Once you get your head around it
 you will love to use it in everything you code. Alas! you cannot use it every ;(. I suppose Objective C and Asp.Net developers are lucky (and not to forget PhP guys) as the very nature some of their projects are built are based on MVC! and are more aware of it than others. while other toil away in spaghetti world.
 Not that MVC cannot be implement in other platforms, its just that a lot of developers may not be aware of it.
@@ -22,7 +24,8 @@ Some of the magic of MVC
   * Makes a logical separation of concerns at the UI tier
   * Provides more direct access to the underlying HTML of the page
 
-###What is MVC?
+What is MVC?
+------------
 Basically M-> Model V-> View D -> Data
   * Model
      * You will write you business logic in you Model.
@@ -43,7 +46,8 @@ Basically M-> Model V-> View D -> Data
 
   check the image above.
 
-###MVC MVC MVC
+MVC MVC MVC
+------------
 Its not that using MVC will make you a great coder and surely not using it will not make you a bad coder either. Its has it advantages and there are always those projects where you will have to make a big deal of change to implement it however its always great to know about it and use it whenever you can!.
 
 Here are some of the MVC related stuff that I find really interesting.

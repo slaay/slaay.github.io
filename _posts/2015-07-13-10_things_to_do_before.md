@@ -5,7 +5,8 @@ image: /img/blogg/top_10_things.png
 comments: True
 ---
 
-###10 things to do before i turn 28!
+10 things to do before i turn 28!
+------------
 (**By the way I'm only 26 at the time of writing this blog**) <br/>
 
   * <b>#1. Learn to play guitar</b><br/>
