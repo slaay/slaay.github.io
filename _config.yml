@@ -9,6 +9,6 @@ markdown:    kramdown
 
 
 permalink: pretty
-pygments: false
+highlighter: false
 gems:
   - jekyll-sitemap
