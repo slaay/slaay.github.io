@@ -5,7 +5,7 @@ I love to experiment with different technologies in my free time.
 I suck as web developer so this site and slaaysourcecoders.in are my way of learning
  new stuff ;), Do check out my GitHub repos.'
 url: 'https://slaay.github.io'
-baseurl: '/'
+baseurl: ''
 google_analytics: 'UA-61560423-1'
 disqus_shortname: 'slaaygithubio'
 
