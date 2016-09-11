@@ -1,9 +1,14 @@
 ---
 title: Technically fit
-layout: post
-image: /img/fitness/dumbbell.png
-comments: True
+categories: [Coding]
+tags: [Coders, Programmers]
+comments: true
 ---
+
+
+<div>
+	<img align="middle" src="/img/fitness/dumbbell.png" >
+</div>
 
 Sedentary life style
 ------------

@@ -1,9 +1,14 @@
 ---
 title: 10 things to do!
-layout: post
-image: /img/blogg/top_10_things.png
-comments: True
+categories: [Coding]
+tags: [Aim, Raspberry]
+comments: true
 ---
+
+
+<div>
+  <img align="middle" src="/img/blogg/top_10_things.png" >
+</div>
 
 10 things to do before i turn 28!
 ------------

@@ -1,9 +1,14 @@
 ---
 title: Reinvent! really?
-layout: post
-image: /img/reinvent/caveman-wheel-cartoon.jpg
-comments: True
+categories: [Coding]
+tags: [Coders, Programmers, IoT, Mandrill]
+comments: true
 ---
+
+
+<div>
+	<img align="middle" src="/img/reinvent/caveman-wheel-cartoon.jpg" >
+</div>
 
 Reinvent the wheel..WHY?
 ------------

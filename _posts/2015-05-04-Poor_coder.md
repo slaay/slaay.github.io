@@ -1,9 +1,15 @@
 ---
 title: Understanding a coder
-layout: post
-image: /img/coders/retro_programmer.jpg
-comments: True
+categories: [Coding]
+tags: [Coders, Programmers]
+comments: true
 ---
+
+
+<div>
+	<img align="middle" src="/img/coders/retro_programmer.jpg" >
+</div>
+
 
 Tough nut to crack
 ------------

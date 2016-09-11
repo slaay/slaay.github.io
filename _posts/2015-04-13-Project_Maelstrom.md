@@ -1,9 +1,14 @@
 ---
 title: Project Maelstrom
-layout: post
-image: /img/maelstrom/maelstrom.png
-comments: True
+categories: [Web]
+tags: [Maelstrom, Torrent]
+comments: true
 ---
+
+
+<div>
+	<img align="middle" src="/img/maelstrom/maelstrom.png" >
+</div>
 
 Ban Ban Ban
 ------------

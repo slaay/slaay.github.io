@@ -1,9 +1,14 @@
 ---
 title: Internet of Pi
-layout: post
-image: /img/iot_pi.jpg
-comments: True
+categories: [Repositories]
+tags: [Raspberry, IoT]
+comments: true
 ---
+
+<div>
+	<img align="middle" src="/img/iot_pi.jpg" >
+</div>
+
 
 Internet of things is going to be a multi billion dollar industry and is taking the world of Information technology by storm.
 There are a million (and a little bit more) possibilities.

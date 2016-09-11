@@ -1,14 +1,42 @@
-name: "Slaay source coders blog"
-description: "Slaay github Pages"
+# Site settings
+title: Slaaysourcecoders
+description: 'I am Presley Dias, a software engineer by profession. 
+I love to experiment with different technologies in my free time. 
+I suck as web developer so this site and slaaysourcecoders.in are my way of learning
+ new stuff ;), Do check out my GitHub repos.'
+url: 'http://slaay.github.io'
+baseurl: '/'
+google_analytics: 'UA-61560423-1'
+disqus_shortname: 'slaaygithubio'
 
-url: "http://slaaysourcecoders.in"
+author:
+  name: 'Presley Dias'
+  email: presley.diaslee@gmail.com
+  twitter_username: slaaysrcecoders
+  facebook_username: slaaysourcecoders
+  github_username:  slaay
+  linkedin_username:  presleydias
 
-paginate: 20
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
-markdown:    kramdown
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:month/:day/:title
+markdown: kramdown
+highlighter: rouge
 
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-permalink: pretty
-highlighter: false
-gems:
-  - jekyll-sitemap
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

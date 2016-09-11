@@ -1,9 +1,14 @@
 ---
 title: The NF super Speed
-layout: post
-image: /img/FastSystem/fast.jpg
-comments: True
+categories: [Coding]
+tags: [Coders, Programmers]
+comments: true
 ---
+
+
+<div>
+	<img align="middle" src="/img/FastSystem/fast.jpg" >
+</div>
 
 Moore's law
 ------------
@@ -16,7 +21,7 @@ In Software industry bigger is better for coder. Faster the machine, lesser the 
 
 Those hogging IDEs!
 ------------
-Its not just that the projects are getting bigger it that the IDEs are getting fatter and greedier. Now take example of [Delphi IDE](https://www.google.co.in/search?q=embarcadero+delphi&oq=embar&aqs=chrome.1.69i57j69i59.9047j0j7&sourceid=chrome&es_sm=91&ie=UTF-8), the last IDE is a beast!. Though it damn powerful in what its supposed to do but it required a good enough capable system to hold it down and let you code in peace( and not keep staring at it to load your project).
+Its not just that the projects are getting bigger it that the IDEs are getting fatter and greedier. Now take example of [Delphi IDE](https://www.google.co.in/search?q=embarcadero+delphi&oq=embar&aqs=chrome.1.69i57j69i59.9047j0j7&sourceid=chrome&es_sm=91&ie=UTF-8), the last IDE is a beast!. Though it damn powerful in what its supposed to do but it requires a good enough capable system to hold it down and let you code in peace( and not keep staring at it to load your project).
 
 Frustration
 ------------

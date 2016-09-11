@@ -1,9 +1,14 @@
 ---
 title: Slaay Tech Den 
-layout: post
-image: /img/Raspberry_Pi/raspberrypi_apple.jpg
-comments: True
+categories: [Slaay]
+tags: [Raspberry]
+comments: true
 ---
+
+
+<div>
+  <img align="middle" src="/img/Raspberry_Pi/raspberrypi_apple.jpg" >
+</div>
 
 Tech den!
 ------------

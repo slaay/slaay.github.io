@@ -2,59 +2,23 @@
 layout: default
 ---
 
-{% for post in paginator.posts limit: 40 %}
+<div class="main-post-list">
 
- <!-- <div class="wrapper style1 first"> -->
- <div>
-        <article class="container" id="top">
-          <div class="row">
-            <div class="4u">
-              <span class="image fit"><img src="img/spawingSoon_64.png" alt="" /></span>
-            </div>
-            <div class="8u">
-                <h2><strong>{{ post.title }}</strong></h2>
-              <h4>{{ post.date | date_to_long_string }}</h4>
-                  <p>
-                    <a href="{{ post.url }}">Read Post</a>
-                    
-                  </p>
-            </div>
-          </div>
-        </article>
-  </div>
+  <ol class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <b><h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" title="{{ post.title }}">{{ post.title }}</a></h2></b>
+        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
+        <div class="post-list__meta"><time datetime="{{ post.date | date: "%-d %b %Y" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">on {% for tag in post.tags %}<a href="{{ site.baseurl }}tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span></div>
+        <hr class="post-list__divider">
+      </li>
+    {% endfor %}
+  </ol>
 
-{% endfor %}
-<div class="row-fluid">
-  <div class="span12">
-    <div class="pagination">
-      <ul>
-        {% if paginator.previous_page %}
-          {% if paginator.previous_page == 1 %}
-          <li><a href="/">Prev</a></li>
-          {% else %}
-          <li><a href="/page{{ paginator.previous_page }}">Prev</a></li>
-          {% endif %}
-        {% else %}
-        <li><span class="disabled">Prev</span></li>
-        {% endif %}
-        {% if paginator.page == 1 %}
-        <li><span class="active">1</span></li>
-        {% else %}
-        <li><a href="/">1</a></li>
-        {% endif %}
-        {% for count in (2..paginator.total_pages) %}
-          {% if count == paginator.page %}
-          <li><span class="active">{{ count }}</span></li>
-          {% else %}
-          <li><a href="/page{{ count }}">{{ count }}</a></li>
-          {% endif %}
-        {% endfor %}
-        {% if paginator.next_page %}
-        <li><a href="/page{{ paginator.next_page }}">Next</a></li>
-        {% else %}
-        <li><span class="disabled">Next</span></li>
-        {% endif %}
-      </ul>
-    </div>
-  </div>
+  <hr class="post-list__divider ">
+
+  {% if paginator.previous_page or paginator.next_page %}
+      {% include pagination.html %}
+  {% endif %}
+
 </div>

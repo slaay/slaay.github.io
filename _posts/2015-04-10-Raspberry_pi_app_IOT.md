@@ -1,9 +1,14 @@
 ---
 title: Raspberry Pi IoT App
-layout: post
-image: /img/Raspberry_Pi/Pi_iOT_App.jpg
-comments: True
+categories: [Raspberry]
+tags: [Raspberry, IoT, iOS, Delphi]
+comments: true
 ---
+
+
+<div>
+	<img align="middle" src="/img/Raspberry_Pi/Pi_iOT_App.jpg" >
+</div>
 
 <p> </p>
 The app that I will be making to control the drone will have to be simple and fast. The basic idea is as shown in the image above.

@@ -1,9 +1,14 @@
 ---
 title: Pi camera module
-layout: post
-image: /img/Raspberry_Pi/camera-module-pi.jpg
-comments: True
+categories: [Raspberry]
+tags: [Raspberry]
+comments: true
 ---
+
+
+<div>
+	<img align="middle" src="/img/Raspberry_Pi/camera-module-pi.jpg" >
+</div>
 
 <p> </p>
 To finish the flying home made drone powered by Raspberry Pi i will need to

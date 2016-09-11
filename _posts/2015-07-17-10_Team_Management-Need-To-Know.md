@@ -1,9 +1,14 @@
 ---
 title: Team Management 
-layout: post
-image: /img/blogg/Team.png
-comments: True
+categories: [Team]
+tags: [Coders, Team Management]
+comments: true
 ---
+
+
+<div>
+  <img align="middle" src="/img/blogg/Team.png" >
+</div>
 
 Need to know
 ------------

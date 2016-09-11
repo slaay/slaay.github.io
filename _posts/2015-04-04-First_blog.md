@@ -1,8 +1,13 @@
 ---
 title: My Jekyll blog
-layout: post
-image: /img/jekyll.png
+image: 
+tags: [Jekyll, GitHub]
+comments: true
 ---
+
+<div>
+	<img align="middle" src="/img/jekyll.png" >
+</div>
 
 This is my first live blog post using Jekyll. I came across Jekyll while trying to 
 hunt down for a simple light weight CMS for blogging over which I can have all the control.

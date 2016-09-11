@@ -1,9 +1,14 @@
 ---
 title: MVC for Me!
-layout: post
-image: /img/Dotnet/mvc.jpg
-comments: True
+categories: [Coding]
+tags: [MVC, .NET, ASP, Delphi]
+comments: true
 ---
+
+
+<div>
+  <img align="middle" src="/img/Dotnet/mvc.jpg" >
+</div>
 
 How I thought myself little bit of MVC
 ------------

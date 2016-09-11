@@ -1,9 +1,13 @@
 ---
 title: GitHub repos
-layout: post
-image: /img/octojekyll.png
-comments: True
+categories: [Repositories]
+tags: [Delphi, GitHub, iOS, Android]
+comments: true
 ---
+
+<div>
+	<img align="middle" src="/img/octojekyll.png" >
+</div>
 
 I has been a while since I started with coding and hosting public repos on GitHub. I first start forking random repos that interested me alot.
 Then I moved on to create my own repo. The reason I chose GitHub was simple for me as Github is huge and damn easy to search and use.

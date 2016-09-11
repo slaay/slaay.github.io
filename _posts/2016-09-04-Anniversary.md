@@ -1,7 +1,8 @@
 ---
 title: 2nd Anniversary
-layout: post
-comments: True
+categories: [Slaay]
+tags: [Slaay 2.0, Anniversary]
+comments: true
 ---
 
 <div>

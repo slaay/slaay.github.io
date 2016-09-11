@@ -1,9 +1,14 @@
 ---
 title: I need a hug ;(
-layout: post
-image: /img/apps/cuteme.jpg
-comments: True
+categories: [Apps]
+tags: [iOS, Apps, Mashape, API, Github]
+comments: true
 ---
+
+
+<div>
+	<img align="middle" src="/img/apps/cuteme.jpg" >
+</div>
 
 New App idea
 ------------

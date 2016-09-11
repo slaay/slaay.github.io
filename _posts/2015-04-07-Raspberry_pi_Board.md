@@ -1,9 +1,13 @@
 ---
 title: Raspberry pi
-layout: post
-image: /img/Raspberry_pi.jpg
-comments: True
+categories: [Raspberry]
+tags: [Raspberry]
+comments: true
 ---
+
+<div>
+	<img align="middle" src="/img/Raspberry_pi.jpg" >
+</div>
 
 For building my first Internet of Things flying device I need o get my hands on a Raspberry Pi board. Now why do i need this board?
 Well i need it to be the heart of the whole system. The board will be running Android OS and it is going to connect to Internet

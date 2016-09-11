@@ -1,9 +1,14 @@
 ---
 title: New Spark needed!
-layout: post
-image: /img/spark.jpg
-comments: True
+categories: [Coding]
+tags: [Coders, Programmers]
+comments: true
 ---
+
+
+<div>
+	<img align="middle" src="/img/spark.jpg" >
+</div>
 
 Mundane
 ------------
