@@ -19,8 +19,6 @@ layout: default
       {% for post in site.posts %} 
         <!-- list only those which contain the current tag --> 
         {% if post.tags contains tagitem[0] %} 
-
-        {{ post.url}}
             <li>
               <a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
             </li>
