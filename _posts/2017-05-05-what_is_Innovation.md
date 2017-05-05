@@ -5,7 +5,7 @@ tags: [thoughts, competition]
 comments: true
 ---
 <div>
-	<img align="middle" src="/img/What is Innovation?" >
+	<img align="middle" src="/img/what_is_innovation.png" >
 </div>
 
 
