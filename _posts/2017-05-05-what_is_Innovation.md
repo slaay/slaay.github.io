@@ -31,4 +31,4 @@ Lets take an example of few things that are **innovate** in their own way.
 
 Sadly the great minds that were tasked with the job of finding something **innovated** had such a limited set of knowledge that they failed to understand that saving money for the customers is **innovative** too.
 
-LinkedIn: https://www.linkedin.com/pulse/what-innovation-presley-dias
+LinkedIn: [what is innovation](https://www.linkedin.com/pulse/what-innovation-presley-dias)
