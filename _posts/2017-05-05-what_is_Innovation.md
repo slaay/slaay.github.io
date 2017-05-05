@@ -30,3 +30,5 @@ Lets take an example of few things that are **innovate** in their own way.
 * Stream line and un-disrupt supply chain - A service with neat tricks (with software and method) that save the customer some much needed $$$ and expensive time so that they can invest that money and time in growing their business? (Organizers sadly dont think this as **innovative**)
 
 Sadly the great minds that were tasked with the job of finding something **innovated** had such a limited set of knowledge that they failed to understand that saving money for the customers is **innovative** too.
+
+LinkedIn: https://www.linkedin.com/pulse/what-innovation-presley-dias
